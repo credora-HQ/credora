@@ -30,4 +30,4 @@ Credora enables institutions to issue cryptographically verifiable credentials t
 
 ## Status
 
-Currently in active development.
+Credora is in early design/research phase. If you're an institution interested in verifiable credential infrastructure, we'd love to talk.
